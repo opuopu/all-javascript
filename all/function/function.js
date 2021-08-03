@@ -1,3 +1,4 @@
+// funtion eibabe likhte hoy structure
 function openthe(){
 
     console.log("ghum theke uth");
@@ -5,16 +6,6 @@ function openthe(){
 
 
 }
-
+// eita function name jake call kora hoy
 openthe();
 
-var number =[  30, 50, 40, 80];
-var i = 0;
-
-while(i<=3){
-
-  
-    console.log( number[i]);
-    i++;
-}
-openthe();
