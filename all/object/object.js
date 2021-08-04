@@ -40,3 +40,19 @@ member["name"] = "walton";
 var chnageName = "name";
 member["chnageName"] = " samsung";
 console.log(member.chnageName);
+
+var computer = {
+
+    model: " h2",
+    price: 50000,
+    name:"symphony",
+}
+
+computer.model = "  h5"
+
+computer["model"] = " h59";
+
+var change = "model";
+computer.change = " jk999";
+console.log(computer.change);
+console.log(computer.model);
